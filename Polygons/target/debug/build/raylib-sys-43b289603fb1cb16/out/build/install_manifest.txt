@@ -1,0 +1,7 @@
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/lib/libraylib.a
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/include/raylib.h
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/include/rlgl.h
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/include/raymath.h
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/lib/pkgconfig/raylib.pc
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/lib/cmake/raylib/raylib-config-version.cmake
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/raylib-sys-43b289603fb1cb16/out/lib/cmake/raylib/raylib-config.cmake

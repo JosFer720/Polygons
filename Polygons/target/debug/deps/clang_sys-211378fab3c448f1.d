@@ -1,0 +1,14 @@
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/deps/clang_sys-211378fab3c448f1.d: /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/macros.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/common.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/dynamic.rs
+
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/deps/libclang_sys-211378fab3c448f1.rlib: /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/macros.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/common.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/dynamic.rs
+
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/deps/libclang_sys-211378fab3c448f1.rmeta: /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/macros.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/common.rs /Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/dynamic.rs
+
+/Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/Users/joseruiz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/macros.rs:
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/common.rs:
+/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/joseruiz/Desktop/Polygons/Polygons/target/debug/build/clang-sys-f1799aecefe114da/out
